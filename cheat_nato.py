@@ -1,5 +1,2 @@
 print("Connecting to server NATO")
-print("HACK auth servers")
-print("HACK main servers")
-print(".........")
 print("HACK complited!!!")
